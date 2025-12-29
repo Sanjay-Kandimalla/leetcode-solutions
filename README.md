@@ -1,1 +1,1 @@
-#Daily SQL practice with solutions and explanations
+Daily SQL practice with solutions and explanations
