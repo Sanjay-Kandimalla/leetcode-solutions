@@ -10,5 +10,7 @@ This repository contains my SQL solutions to LeetCode problems, organized by dif
 | 584  | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) ([SQL](sql/easy/584_find_customer_referee.sql)) | Easy |
 | 595  | [Big Countries](https://leetcode.com/problems/big-countries/) ([SQL](sql/easy/595_big_countries.sql)) | Easy |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) ([SQL](sql/easy/183_customers_who_never_order.sql)) | Easy |
+| 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) ([SQL](sql/easy/1873_calculate_special_bonus.sql)) | Easy |
+
 
 
