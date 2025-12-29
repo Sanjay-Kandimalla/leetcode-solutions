@@ -6,4 +6,5 @@ This repository contains my SQL solutions to LeetCode problems, organized by dif
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 1757 | Recyclable and Low Fat Products | Easy |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy |
+
