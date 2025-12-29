@@ -1,1 +1,1 @@
-# leetcode-solutions
+Daily SQL practice with solutions and explanations
