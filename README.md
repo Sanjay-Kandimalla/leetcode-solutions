@@ -2,7 +2,7 @@
 
 This repository contains my SQL solutions to LeetCode problems, organized by difficulty.
 
-## SQL Solutions
+# SQL Solutions
 
 | # | Problem | Difficulty |
 |---|---------|------------|
